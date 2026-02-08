@@ -8,134 +8,70 @@
     <link rel="File-List" href="index2.files/filelist.xml">
     <title>MRP QUEENSLAND</title>
     <!--[if gte mso 9]><xml><o:DocumentProperties><o:Author>m1tri</o:Author><o:LastAuthor>mtrikilis</o:LastAuthor><o:Revision>1</o:Revision><o:Pages>3</o:Pages><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties><o:CustomDocumentProperties><o:KSOProductBuildVer dt:dt="string" >1033-12.2.0.23196</o:KSOProductBuildVer><o:ICV dt:dt="string" >08D9059181FF4C79B391BA763C8DFA73_13</o:ICV></o:CustomDocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:View>Web</w:View><w:Compatibility><w:DoNotExpandShiftReturn/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Normal" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 4" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 6" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 7" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 8" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 9" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 1" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 3" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 5" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 7" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 8" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 9" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 4" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 6" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 7" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 8" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 9" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal Indent" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote text" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation text" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="header" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footer" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index heading" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="caption" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of figures" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope address" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope return" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote reference" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation reference" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="line number" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="page number" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote reference" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote text" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of authorities" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="macro" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toa heading" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 4" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 4" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 4" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Title" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Closing" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Signature" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Default Paragraph Font" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 3" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 5" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Message Header" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Subtitle" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Salutation" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Date" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Note Heading" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Block Text" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Hyperlink" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="FollowedHyperlink" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Strong" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Emphasis" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Document Map" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Plain Text" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="E-mail Signature" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal (Web)" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Acronym" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Address" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Cite" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Code" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Definition" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Keyboard" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Preformatted" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Sample" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Typewriter" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Variable" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal Table" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation subject" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No List" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / a / i" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / 1.1 / 1.1.1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Article / Section" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 1" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 3" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 1" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 3" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 4" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 1" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 3" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 5" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 7" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 8" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 1" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 3" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 5" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 7" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 8" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 1" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 3" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Contemporary" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Elegant" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Professional" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Subtle 1" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Subtle 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 1" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 3" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Balloon Text" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Theme" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Placeholder Text" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No Spacing" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading" ></w:LsdException><w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid" ></w:LsdException><w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2" ></w:LsdException><w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2" ></w:LsdException><w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2" ></w:LsdException><w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List" ></w:LsdException><w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List" ></w:LsdException><w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 1" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 1" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 1" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Paragraph" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Quote" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Intense Quote" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 1" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 1" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 1" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 1" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 3" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 3" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 3" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 3" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 3" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 3" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 3" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 4" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 4" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 4" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 4" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 4" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 4" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 4" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 5" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 5" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 5" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 5" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 5" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 5" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 5" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 6" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 6" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 6" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 6" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 6" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 6" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Normal" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 1" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 4" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 5" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 6" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 8" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 9" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 1" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 3" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 4" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 5" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 7" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 8" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 9" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 3" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 4" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 6" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 7" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 8" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal Indent" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote text" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation text" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footer" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index heading" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="caption" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of figures" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope address" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope return" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote reference" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="line number" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="page number" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote reference" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of authorities" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="macro" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toa heading" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 4" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 5" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 4" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 5" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 4" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 5" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Title" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Closing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Signature" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Default Paragraph Font" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 3" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 5" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Message Header" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Subtitle" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Salutation" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Date" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Note Heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 3" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Block Text" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Hyperlink" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="FollowedHyperlink" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Strong" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Emphasis" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Document Map" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Plain Text" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="E-mail Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal (Web)" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Acronym" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Address" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Cite" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Code" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Definition" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Keyboard" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Preformatted" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Sample" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Typewriter" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Variable" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal Table" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation subject" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No List" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / a / i" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / 1.1 / 1.1.1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Article / Section" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 1" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 1" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 3" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 1" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 3" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 3" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 4" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 1" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 3" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 5" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 6" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 7" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 1" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 3" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 5" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 6" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 7" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 1" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 3" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Contemporary" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Elegant" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Professional" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Subtle 1" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Subtle 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 1" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 2" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 3" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Balloon Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid" ></w:LsdException><w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Theme" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Placeholder Text" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No Spacing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading" ></w:LsdException><w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List" ></w:LsdException><w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid" ></w:LsdException><w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2" ></w:LsdException><w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1" ></w:LsdException><w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2" ></w:LsdException><w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2" ></w:LsdException><w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3" ></w:LsdException><w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List" ></w:LsdException><w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List" ></w:LsdException><w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 1" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 1" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 1" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 1" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Paragraph" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Quote" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Intense Quote" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 1" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 1" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 1" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 1" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 1" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 1" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 2" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 3" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 3" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 3" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 3" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 3" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 3" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 3" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 3" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 3" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 3" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 3" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 4" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 4" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 4" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 4" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 4" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 4" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 4" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 4" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 4" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 4" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 5" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 5" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 5" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 5" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 5" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 5" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 5" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 5" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 5" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 5" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 5" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 6" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 6" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 6" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 6" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 6" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 6" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 6" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 6" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 6" ></w:LsdException><w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 6" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 6" ></w:LsdException></w:LatentStyles></xml><![endif]-->
     <style>
 @font-face{
@@ -755,443 +691,464 @@ font-weight:bold;font-size:12.0000pt;mso-font-kerning:22.0000pt;"><o:p></o:p></s
             src="index2.files/index2776.png" height="266" width="474"></span><b><span
             style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
 font-size:24.0000pt;mso-font-kerning:22.0000pt;"><o:p></o:p></span></b></h1>
-      <p class="MsoNormal" style="mso-pagination:widow-orphan;text-align:left;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="MsoNormal" style="mso-pagination:widow-orphan;text-align:left;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">SEE THE EVIDENCE, TAKE ACTION</span><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <h2 style="mso-pagination:widow-orphan;"><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">THE
-              MINISTER'S OWN REPORT</font></span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
-font-size:18.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></h2>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">These numbers come directly from
-          Queensland Health's Workforce Gap Analysis — the report the Minister
-          ordered, then ignored.</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">SOURCE: QLD HEALTH WORKFORCE GAP
-          ANALYSIS, NOVEMBER 2025</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="MsoNormal" style="mso-pagination:widow-orphan;text-align:left;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">WORKFORCE GAP909Full-Time
-          Equivalent positions</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="MsoNormal" style="mso-pagination:widow-orphan;text-align:left;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">DEMAND MET BY 203258%Only 58% of
-          what's needed</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="MsoNormal" style="mso-pagination:widow-orphan;text-align:left;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">SHORTFALL42%Of patients won't
-          get care</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">"Without targeted action, supply
-          gaps will continue to undermine access, quality, and system
-          sustainability."</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;"><font face="sans-serif">—
-            Queensland Health Workforce Gap Analysis, Page 22</font></span><span
-          style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <h2 style="mso-pagination:widow-orphan;"><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">DELIBERATE
-              IGNORANCE?</font></span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
-font-size:18.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></h2>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">The Minister released a press
-          statement about the report. Here's what he said — and what he
-          conveniently left out.</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <h3 style="mso-pagination:widow-orphan;"><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:13.5000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">WHAT
-              THE MINISTER TOLD THE PUBLIC</font></span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
-font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></h3>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">"We are committed to 46,000
-          additional staff by 2032"</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">"4,500 extra health workers in
-          2025-26"</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">Focus on: Doctors, Nurses,
-          Paramedics</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">Times MRPs mentioned in press
-          release:</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">ZERO</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <h3 style="mso-pagination:widow-orphan;"><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:13.5000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">WHAT
-              HIS OWN REPORT ACTUALLY SAYS</font></span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
-font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></h3>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">Medical Radiation Professionals
-          face 909 FTE gap</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">Only 58% of MRP demand met by
-          2032</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">"Critical workforce shortages
-          impact capacity"</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">Report's own assessment:</span><span
-          style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">URGENT ACTION REQUIRED</span><span
-          style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">~80% OF HOSPITAL PATIENTS NEED
-          MRPS FOR DIAGNOSIS OR TREATMENT.</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;"><br>
-        </span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">WHY IS THE MINISTER IGNORING
-          THIS?</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <h2 style="mso-pagination:widow-orphan;"><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">WHAT
-              ARE MRPs?</font></span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
-font-size:18.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></h2>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">Medical Radiation Professionals
-          are essential healthcare workers who use advanced technology to
-          diagnose and treat patients. Without them, modern hospitals simply
-          cannot function.</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <h3 style="mso-pagination:widow-orphan;"><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:13.5000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">RADIOGRAPHERS</font></span></b><b><span
-            style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
-font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></h3>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">X-rays, CT scans, MRIs — they
-          see inside you to find what's wrong. Every broken bone, every tumor,
-          every diagnosis starts here.</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <h3 style="mso-pagination:widow-orphan;"><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:13.5000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">SONOGRAPHERS</font></span></b><b><span
-            style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
-font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></h3>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">Ultrasound experts. From
-          monitoring pregnancies to detecting heart conditions, they provide
-          critical real-time imaging.</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <h3 style="mso-pagination:widow-orphan;"><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:13.5000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">NUCLEAR
-              MEDICINE</font></span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
-font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></h3>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">Using radioactive materials to
-          diagnose and treat diseases. Essential for cancer detection and
-          thyroid treatments.</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <h3 style="mso-pagination:widow-orphan;"><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:13.5000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">RADIATION
-              THERAPISTS</font></span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
-font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></h3>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">Cancer fighters. They deliver
-          precise radiation treatments that destroy tumors while protecting
-          healthy tissue.</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <h2 style="mso-pagination:widow-orphan;"><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">DON'T
-              LET THEM IGNORE THIS</font></span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
-font-size:18.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></h2>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">Join the watchlist. We'll keep
-          you updated as this workforce crisis unfolds and let you know how you
-          can help.</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="34" style="mso-pagination:widow-orphan;"><span style="mso-spacerun:'yes';font-family:SimSun;display:none;
+      <dl style="text-align: center;">
+        <dd><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
+font-size:12.0000pt;mso-font-kerning:0.0000pt;">&nbsp;</span><span style="color: #3f8526;"><b><span
+                style="font-family: sans-serif; font-size: 12pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">SEE
+                THE EVIDENCE, TAKE ACTION</span><span style="font-family: sans-serif; font-size: 12pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd>
+          <h2><span style="color: #3f8526;"><b><span style="font-family: SimSun; font-weight: bold; font-size: 18pt;"><font
+                    face="SimSun">THE MINISTER'S OWN REPORT</font></span><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
+font-size:18.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></h2>
+        </dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">These
+                numbers come directly from Queensland Health's Workforce Gap
+                Analysis — the report the Minister ordered, then ignored.</span><span
+                style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">SOURCE:
+                QLD HEALTH WORKFORCE GAP ANALYSIS, NOVEMBER 2025</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">WORKFORCE
+                GAP909Full-Time Equivalent positions</span><span style="font-family: sans-serif; font-size: 12pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">DEMAND
+                MET BY 203258%Only 58% of what's needed</span><span style="font-family: sans-serif; font-size: 12pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">SHORTFALL42%Of
+                patients won't get care</span><span style="font-family: sans-serif; font-size: 12pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">"Without
+                targeted action, supply gaps will continue to undermine access,
+                quality, and system sustainability."</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;"><font
+                  face="sans-serif">— Queensland Health Workforce Gap Analysis,
+                  Page 22</font></span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd>
+          <h2><span style="color: #3f8526;"><b><span style="font-family: SimSun; font-weight: bold; font-size: 18pt;"><font
+                    face="SimSun">DELIBERATE IGNORANCE?</font></span><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
+font-size:18.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></h2>
+        </dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">The
+                Minister released a press statement about the report. Here's
+                what he said — and what he conveniently left out.</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd>
+          <h3><span style="color: #3f8526;"><b><span style="font-family: SimSun; font-weight: bold; font-size: 13.5pt;"><font
+                    face="SimSun">WHAT THE MINISTER TOLD THE PUBLIC</font></span><span
+                  style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
+font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></h3>
+        </dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">"We
+                are committed to 46,000 additional staff by 2032"</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">"4,500
+                extra health workers in 2025-26"</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">Focus
+                on: Doctors, Nurses, Paramedics</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">Times
+                MRPs mentioned in press release:</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">ZERO</span><span
+                style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd>
+          <h3><span style="color: #3f8526;"><b><span style="font-family: SimSun; font-weight: bold; font-size: 13.5pt;"><font
+                    face="SimSun">WHAT HIS OWN REPORT ACTUALLY SAYS</font></span><span
+                  style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
+font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></h3>
+        </dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">Medical
+                Radiation Professionals face 909 FTE gap</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">Only
+                58% of MRP demand met by 2032</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">"Critical
+                workforce shortages impact capacity"</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">Report's
+                own assessment:</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">URGENT
+                ACTION REQUIRED</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">~80%
+                OF HOSPITAL PATIENTS NEED MRPS FOR DIAGNOSIS OR TREATMENT.</span><span
+                style="font-family: sans-serif; font-size: 12pt;"><br>
+              </span><span style="font-family: sans-serif; font-size: 12pt;">WHY
+                IS THE MINISTER IGNORING THIS?</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd>
+          <h2><span style="color: #3f8526;"><b><span style="font-family: SimSun; font-weight: bold; font-size: 18pt;"><font
+                    face="SimSun">WHAT ARE MRPs?</font></span><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
+font-size:18.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></h2>
+        </dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">Medical
+                Radiation Professionals are essential healthcare workers who use
+                advanced technology to diagnose and treat patients. Without
+                them, modern hospitals simply cannot function.</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd>
+          <h3><span style="color: #3f8526;"><b><span style="font-family: SimSun; font-weight: bold; font-size: 13.5pt;"><font
+                    face="SimSun">RADIOGRAPHERS</font></span><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
+font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></h3>
+        </dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">X-rays,
+                CT scans, MRIs — they see inside you to find what's wrong. Every
+                broken bone, every tumor, every diagnosis starts here.</span><span
+                style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd>
+          <h3><span style="color: #3f8526;"><b><span style="font-family: SimSun; font-weight: bold; font-size: 13.5pt;"><font
+                    face="SimSun">SONOGRAPHERS</font></span><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
+font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></h3>
+        </dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">Ultrasound
+                experts. From monitoring pregnancies to detecting heart
+                conditions, they provide critical real-time imaging.</span><span
+                style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd>
+          <h3><span style="color: #3f8526;"><b><span style="font-family: SimSun; font-weight: bold; font-size: 13.5pt;"><font
+                    face="SimSun">NUCLEAR MEDICINE</font></span><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
+font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></h3>
+        </dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">Using
+                radioactive materials to diagnose and treat diseases. Essential
+                for cancer detection and thyroid treatments.</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd>
+          <h3><span style="color: #3f8526;"><b><span style="font-family: SimSun; font-weight: bold; font-size: 13.5pt;"><font
+                    face="SimSun">RADIATION THERAPISTS</font></span><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
+font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></h3>
+        </dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">Cancer
+                fighters. They deliver precise radiation treatments that destroy
+                tumors while protecting healthy tissue.</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd>
+          <h2><span style="color: #3f8526;"><b><span style="font-family: SimSun; font-weight: bold; font-size: 18pt;"><font
+                    face="SimSun">DON'T LET THEM IGNORE THIS</font></span><span
+                  style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
+font-size:18.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></h2>
+        </dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">Join
+                the watchlist. We'll keep you updated as this workforce crisis
+                unfolds and let you know how you can help.</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="mso-spacerun:'yes';font-family:SimSun;display:none;
 mso-hide:all;font-size:8.0000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">窗
-            体顶端</font></span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
-mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';display:none;mso-hide:all;font-size:8.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="MsoNormal" style="mso-pagination:widow-orphan;text-align:left;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">JOIN THE WATCHLIST</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="39" style="mso-pagination:widow-orphan;"><span style="mso-spacerun:'yes';font-family:SimSun;display:none;
+                  体顶端</font></span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';display:none;mso-hide:all;font-size:8.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">JOIN
+                THE WATCHLIST</span><span style="font-family: sans-serif; font-size: 12pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="mso-spacerun:'yes';font-family:SimSun;display:none;
 mso-hide:all;font-size:8.0000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">窗
-            体底端</font></span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
-mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';display:none;mso-hide:all;font-size:8.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
+                  体底端</font></span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';display:none;mso-hide:all;font-size:8.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">We
+                respect your privacy. Unsubscribe anytime.</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd>
+          <h2><span style="color: #3f8526;"><b><span style="font-family: SimSun; font-weight: bold; font-size: 18pt;"><font
+                    face="SimSun">SPREAD THE WORD</font></span><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
+font-size:18.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></h2>
+        </dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">Download
+                and share these materials to help raise awareness about the MRP
+                workforce crisis. All posters available as printable PDFs.</span><span
+                style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd>
+          <h3><span style="color: #3f8526;"><b><span style="font-family: SimSun; font-weight: bold; font-size: 13.5pt;"><font
+                    face="SimSun">A4 POSTER - QR CODE</font></span><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
+font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></h3>
+        </dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;"><font
+                  face="sans-serif">⚠ WORKFORCE CRISIS</font></span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd>
+          <h2><span style="color: #3f8526;"><b><span style="font-family: SimSun; font-weight: bold; font-size: 18pt;"><font
+                    face="SimSun">MINISTER IGNORES</font></span><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
+font-size:18.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></h2>
+        </dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd>
+          <h2><span style="color: #3f8526;"><b><span style="font-family: SimSun; font-weight: bold; font-size: 18pt;"><font
+                    face="SimSun">HIS OWN REPORT</font></span><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
+font-size:18.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></h2>
+        </dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">SCAN
+                FOR THE TRUTH</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">909</span><span
+                style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">MRP
+                WORKFORCE GAP BY 2032</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">SOURCE:
+                QLD HEALTH WORKFORCE GAP ANALYSIS NOV 2025</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">DOWNLOAD
+                A4 PDF</span><span style="font-family: sans-serif; font-size: 12pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd>
+          <h3><span style="color: #3f8526;"><b><span style="font-family: SimSun; font-weight: bold; font-size: 13.5pt;"><font
+                    face="SimSun">A4 POSTER - STATS</font></span><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
+font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></h3>
+        </dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">THE
+                GOVERNMENT'S OWN REPORT SHOWS</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">909</span><span
+                style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">MRP
+                SHORTAGE</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">58%</span><span
+                style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">DEMAND
+                MET BY 2032</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">42%</span><span
+                style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">PATIENTS
+                WON'T GET CARE</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">MINISTER'S
+                RESPONSE?</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">SILENCE.</span><span
+                style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">MRPQUEENSLAND@GMAIL.COM</span><span
+                style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">DOWNLOAD
+                A4 PDF</span><span style="font-family: sans-serif; font-size: 12pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd>
+          <h3><span style="color: #3f8526;"><b><span style="font-family: SimSun; font-weight: bold; font-size: 13.5pt;"><font
+                    face="SimSun">MOBILE / SOCIAL SQUARE</font></span><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
+font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></h3>
+        </dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">QLD
+                HEALTH CRISIS</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd>
+          <h2><span style="color: #3f8526;"><b><span style="font-family: SimSun; font-weight: bold; font-size: 18pt;"><font
+                    face="SimSun">DOES THE</font></span><span style="font-family: SimSun; font-weight: bold; font-size: 18pt;"><br>
+                </span><span style="font-family: SimSun; font-weight: bold; font-size: 18pt;"><font
+                    face="SimSun">HEALTH MINISTER</font></span><span style="font-family: SimSun; font-weight: bold; font-size: 18pt;"><br>
+                </span><span style="font-family: SimSun; font-weight: bold; font-size: 18pt;"><font
+                    face="SimSun">THINK IT'S</font></span><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
+font-size:18.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></h2>
+        </dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">1950?</span><span
+                style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">909
+                MRP workforce gap by 2032</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">Modern
+                hospitals need MRPs</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">MRPQUEENSLAND@GMAIL.COM</span><span
+                style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">DOWNLOAD
+                SQUARE PDF</span><span style="font-family: sans-serif; font-size: 12pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd>
+          <h3><span style="color: #3f8526;"><b><span style="font-family: SimSun; font-weight: bold; font-size: 13.5pt;"><font
+                    face="SimSun">SUGGESTED DOMAIN NAMES</font></span><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
+font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></h3>
+        </dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">mrpcrisis.com.ausavemrp.org.aumrpgap.com.aumodernmedicine.org.aunot1950.com.au</span><span
+                style="font-family: sans-serif; font-size: 12pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">MRP
+                WORKFORCE CRISIS</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">Raising
+                awareness about the critical shortage of Medical Radiation
+                Professionals in Queensland's healthcare system.</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span style="font-family: sans-serif; font-size: 12pt;">CONTACT</span><span
+                style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></span></dd>
+        <dd> <span style="color: #3f8526;"><b><br>
+            </b></span></dd>
+        <dd><span style="color: #3f8526;"><b><span><a href="mailto:MRPQUEENSLAND@GMAIL.COM"><u><span
+                      class="16" style="font-family: sans-serif; text-decoration: underline; font-size: 12pt;">MRPQUEENSLAND@GMAIL.COM</span></u></a></span><span
+                style="font-family: sans-serif; font-size: 12pt;"><o:p></o:p></span></b></span></dd>
+        <dd><span style="color: #3f8526;"><b> </b></span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
+font-size:12.0000pt;mso-font-kerning:0.0000pt;"><span style="color: #3f8526;"><b>DISCLAIMER:
+                This website is not affiliated with any union or political
+                party. It is an independen</b></span>t community initiative
+            aimed at preventing a healthcare workforce crisis before it's
+            allowed to occur. Statistics cited are from the official Queensland
+            Health Workforce Gap Analysis published November 2025 and Qld Health
+            publications.</span></dd>
+      </dl>
       <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
 margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
           style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">We respect your privacy.
-          Unsubscribe anytime.</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <h2 style="mso-pagination:widow-orphan;"><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">SPREAD
-              THE WORD</font></span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
-font-size:18.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></h2>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">Download and share these
-          materials to help raise awareness about the MRP workforce crisis. All
-          posters available as printable PDFs.</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <h3 style="mso-pagination:widow-orphan;"><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:13.5000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">A4
-              POSTER - QR CODE</font></span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
-font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></h3>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;"><font face="sans-serif">⚠
-            WORKFORCE CRISIS</font></span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <h2 style="mso-pagination:widow-orphan;"><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">MINISTER
-              IGNORES</font></span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
-font-size:18.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></h2>
-      <h2 style="mso-pagination:widow-orphan;"><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">HIS
-              OWN REPORT</font></span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
-font-size:18.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></h2>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">SCAN FOR THE TRUTH</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">909</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">MRP WORKFORCE GAP BY 2032</span><span
-          style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">SOURCE: QLD HEALTH WORKFORCE GAP
-          ANALYSIS NOV 2025</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="MsoNormal" style="mso-pagination:widow-orphan;text-align:left;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">DOWNLOAD A4 PDF</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <h3 style="mso-pagination:widow-orphan;"><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:13.5000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">A4
-              POSTER - STATS</font></span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
-font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></h3>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">THE GOVERNMENT'S OWN REPORT
-          SHOWS</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">909</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">MRP SHORTAGE</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">58%</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">DEMAND MET BY 2032</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">42%</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">PATIENTS WON'T GET CARE</span><span
-          style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">MINISTER'S RESPONSE?</span><span
-          style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">SILENCE.</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">MRPQUEENSLAND@GMAIL.COM</span><span
-          style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="MsoNormal" style="mso-pagination:widow-orphan;text-align:left;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">DOWNLOAD A4 PDF</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <h3 style="mso-pagination:widow-orphan;"><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:13.5000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">MOBILE
-              / SOCIAL SQUARE</font></span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
-font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></h3>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">QLD HEALTH CRISIS</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <h2 style="mso-pagination:widow-orphan;"><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">DOES
-              THE</font></span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;"><br>
-          </span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">HEALTH
-              MINISTER</font></span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;"><br>
-          </span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">THINK
-              IT'S</font></span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
-font-size:18.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></h2>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">1950?</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">909 MRP workforce gap by 2032</span><span
-          style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">Modern hospitals need MRPs</span><span
-          style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">MRPQUEENSLAND@GMAIL.COM</span><span
-          style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="MsoNormal" style="mso-pagination:widow-orphan;text-align:left;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">DOWNLOAD SQUARE PDF</span><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <h3 style="mso-pagination:widow-orphan;"><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(255,255,255);
-font-weight:bold;font-size:13.5000pt;mso-font-kerning:0.0000pt;"><font face="SimSun">SUGGESTED
-              DOMAIN NAMES</font></span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;
-font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></b></h3>
-      <p class="MsoNormal" style="mso-pagination:widow-orphan;text-align:left;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">mrpcrisis.com.ausavemrp.org.aumrpgap.com.aumodernmedicine.org.aunot1950.com.au</span><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">MRP WORKFORCE CRISIS</span><span
-          style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">Raising awareness about the
-          critical shortage of Medical Radiation Professionals in Queensland's
-          healthcare system.</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">CONTACT</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="MsoNormal" style="mso-pagination:widow-orphan;text-align:left;"><span><a
-            href="mailto:MRPQUEENSLAND@GMAIL.COM"><u><span class="16" style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,255);
-text-decoration:underline;text-underline:single;font-size:12.0000pt;">MRPQUEENSLAND@GMAIL.COM</span></u></a></span><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
-      <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;"><span
-          style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;">DISCLAIMER: This website is not
-          affiliated with any union or political party. It is an independent
-          community initiative aimed at preventing a healthcare workforce crisis
-          before it's allowed to occur. Statistics cited are from the official
-          Queensland Health Workforce Gap Analysis published November 2025 and
-          Qld Health publications.</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
-font-size:12.0000pt;mso-font-kerning:0.0000pt;"><br>
-        </span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
+font-size:12.0000pt;mso-font-kerning:0.0000pt;"> </span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
 font-size:12.0000pt;mso-font-kerning:0.0000pt;">© 2025 MRP Workforce Awareness
           Initiative</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
 font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
@@ -1200,32 +1157,24 @@ margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagi
           style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(255,255,255);
 font-size:12.0000pt;mso-font-kerning:0.0000pt;"><o:p>&nbsp;</o:p></span></p>
       <p class="p" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
-margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-indent:0.0000pt;border-top:1.0000pt solid rgb(229,231,235);mso-border-top-alt:0.2500pt solid rgb(229,231,235);
-border-right:1.0000pt solid rgb(229,231,235);mso-border-right-alt:0.2500pt solid rgb(229,231,235);border-bottom:1.0000pt solid rgb(229,231,235);mso-border-bottom-alt:0.2500pt solid rgb(229,231,235);border-left:1.0000pt solid rgb(229,231,235);mso-border-left-alt:0.2500pt solid rgb(229,231,235);
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-indent:0.0000pt;border-top:1.0000pt solid rgb(229,231,235);mso-border-top-alt:0.2500pt solid rgb(229,231,235);border-right:1.0000pt solid rgb(229,231,235);mso-border-right-alt:0.2500pt solid rgb(229,231,235);border-bottom:1.0000pt solid rgb(229,231,235);mso-border-bottom-alt:0.2500pt solid rgb(229,231,235);border-left:1.0000pt solid rgb(229,231,235);mso-border-left-alt:0.2500pt solid rgb(229,231,235);
 padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;background:rgb(10,10,10);"><span
           style="mso-spacerun:'yes';font-family:Consolas;color:rgb(239,68,68);
-letter-spacing:0.0000pt;text-transform:none;font-style:normal;font-size:13.5000pt;mso-font-kerning:0.0000pt;background:rgb(10,10,10);
-mso-shading:rgb(10,10,10);color:rgb(255,255,255); color:rgb(255,255,255);"><font
+letter-spacing:0.0000pt;text-transform:none;font-style:normal;font-size:13.5000pt;mso-font-kerning:0.0000pt;background:rgb(10,10,10);mso-shading:rgb(10,10,10);color:rgb(255,255,255); color:rgb(255,255,255);"><font
             face="Consolas">⚠ WORKFORCE CRISIS ALERT</font></span><span style="mso-spacerun:'yes';font-family:Consolas;color:rgb(239,68,68);
 letter-spacing:0.0000pt;text-transform:none;font-style:normal;font-size:13.5000pt;mso-font-kerning:0.0000pt;"><o:p></o:p></span></p>
       <h1 style="margin-left:0.0000pt;text-indent:0.0000pt;border-top:1.0000pt solid rgb(229,231,235);
-mso-border-top-alt:0.2500pt solid rgb(229,231,235);border-right:1.0000pt solid rgb(229,231,235);mso-border-right-alt:0.2500pt solid rgb(229,231,235);border-bottom:1.0000pt solid rgb(229,231,235);mso-border-bottom-alt:0.2500pt solid rgb(229,231,235);border-left:1.0000pt solid rgb(229,231,235);
-mso-border-left-alt:0.2500pt solid rgb(229,231,235);padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;mso-line-height-alt:12pt;background:rgb(10,10,10);"><b><span
+mso-border-top-alt:0.2500pt solid rgb(229,231,235);border-right:1.0000pt solid rgb(229,231,235);mso-border-right-alt:0.2500pt solid rgb(229,231,235);border-bottom:1.0000pt solid rgb(229,231,235);mso-border-bottom-alt:0.2500pt solid rgb(229,231,235);border-left:1.0000pt solid rgb(229,231,235);mso-border-left-alt:0.2500pt solid rgb(229,231,235);padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;mso-line-height-alt:12pt;background:rgb(10,10,10);"><b><span
             style="mso-spacerun:'yes';font-family:'Segoe UI Emoji';color:rgb(255,255,255);
-letter-spacing:0.0000pt;font-weight:bold;text-transform:none;font-style:normal;font-size:24.0000pt;mso-font-kerning:22.0000pt;
-background:rgb(10,10,10);mso-shading:rgb(10,10,10);color:rgb(255,255,255); color:rgb(255,255,255);">HEALTH
+letter-spacing:0.0000pt;font-weight:bold;text-transform:none;font-style:normal;font-size:24.0000pt;mso-font-kerning:22.0000pt;background:rgb(10,10,10);mso-shading:rgb(10,10,10);color:rgb(255,255,255); color:rgb(255,255,255);">HEALTH
             MINISTER</span></b><b><span style="mso-spacerun:'yes';font-family:'Segoe UI Emoji';color:rgb(255,255,255);
-letter-spacing:0.0000pt;font-weight:bold;text-transform:none;font-style:normal;font-size:24.0000pt;mso-font-kerning:22.0000pt;
-background:rgb(10,10,10);mso-shading:rgb(10,10,10);color:rgb(255,255,255); "><br>
+letter-spacing:0.0000pt;font-weight:bold;text-transform:none;font-style:normal;font-size:24.0000pt;mso-font-kerning:22.0000pt;background:rgb(10,10,10);mso-shading:rgb(10,10,10);color:rgb(255,255,255); "><br>
           </span></b><b><span style="mso-spacerun:'yes';font-family:'Segoe UI Emoji';color:rgb(239,68,68);
-letter-spacing:0.0000pt;font-weight:bold;text-transform:none;font-style:normal;font-size:24.0000pt;mso-font-kerning:22.0000pt;
-background:rgb(10,10,10);mso-shading:rgb(10,10,10);color:rgb(255,255,255); ">IGNORES
+letter-spacing:0.0000pt;font-weight:bold;text-transform:none;font-style:normal;font-size:24.0000pt;mso-font-kerning:22.0000pt;background:rgb(10,10,10);mso-shading:rgb(10,10,10);color:rgb(255,255,255); ">IGNORES
             HIS OWN</span></b><b><span style="mso-spacerun:'yes';font-family:'Segoe UI Emoji';color:rgb(255,255,255);
-letter-spacing:0.0000pt;font-weight:bold;text-transform:none;font-style:normal;font-size:24.0000pt;mso-font-kerning:22.0000pt;
-background:rgb(10,10,10);mso-shading:rgb(10,10,10);color:rgb(255,255,255); "><br>
+letter-spacing:0.0000pt;font-weight:bold;text-transform:none;font-style:normal;font-size:24.0000pt;mso-font-kerning:22.0000pt;background:rgb(10,10,10);mso-shading:rgb(10,10,10);color:rgb(255,255,255); "><br>
           </span></b><b><span style="mso-spacerun:'yes';font-family:'Segoe UI Emoji';color:rgb(250,204,21);
-letter-spacing:0.0000pt;font-weight:bold;text-transform:none;font-style:normal;font-size:24.0000pt;mso-font-kerning:22.0000pt;
-background:rgb(10,10,10);mso-shading:rgb(10,10,10);color:rgb(255,255,255); ">WORKFORCE
+letter-spacing:0.0000pt;font-weight:bold;text-transform:none;font-style:normal;font-size:24.0000pt;mso-font-kerning:22.0000pt;background:rgb(10,10,10);mso-shading:rgb(10,10,10);color:rgb(255,255,255); ">WORKFORCE
             REPORT</span></b><b><span style="mso-spacerun:'yes';font-family:'Segoe UI Emoji';color:rgb(255,255,255);
 letter-spacing:0.0000pt;font-weight:bold;text-transform:none;font-style:normal;font-size:24.0000pt;mso-font-kerning:22.0000pt;"><o:p></o:p></span></b></h1>
       <p class="37" style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
