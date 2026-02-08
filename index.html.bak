@@ -60,7 +60,7 @@
     <header>
       <div class="container">
         <div class="alert-big" style="background-color: white;"><span style="color: red;">⚠
-            WORKFORCE CRISIS ALERT ⚠</span></div>
+            Qld Health Workforce Crisis ALERT ⚠</span></div>
         <h1><img src="index.files/OIP-2413416958.GC_4zkC65uqqqiKBKyKkVQHaHa" alt="Satirical image of suited man in hospital bed"
             style="width: 88px; height: 88px;"></h1>
         <h1>HEALTH MINISTER IGNORES HIS OWN WORKFORCE REPORT</h1>
@@ -98,9 +98,10 @@
       <div class="card">
         <p class="bold-text">The Queensland Government published a damning
           workforce gap analysis. It shows a significant gap of Medical
-          Radiation Professionals is already underway and will only worsen.</p>
+          Radiation Professionals is already happening and will only worsen as
+          retention and attraction deteriorates.</p>
         <p class="bold-text">The Minister's response? Blame the previous
-          government and complete silence on MRPs.</p>
+          government and completely ignore the&nbsp; MRPs.</p>
         <p class="bold-text" style="color: var(--accent);">Does the Health
           Minister think it's still the 1950s "Carry On" movie era — where only
           doctors and nurses mattered?</p>
@@ -114,16 +115,13 @@
             <div class="media-caption">Carry On Doctor vibes? That's where we're
               headed without MRPs.</div>
           </div>
-          <div class="media-item"> <br>
-            <div class="media-caption">Minister resting while the crisis grows?
-              Time to wake up.</div>
-          </div>
+          <div class="media-item"> <img src="index.files/image.jpg" alt="Medical imaging technician at work">Minister
+            sleeping while the crisis grows? Time to wake up. </div>
         </div>
       </div>
       <h2>Modern Medicine Depends on MRPs (Medical Radiation Professionals)</h2>
       <div class="card">
         <div class="media-grid">
-          <div class="media-item"><img src="index.files/image.jpg" alt="Medical imaging technician at work"></div>
           <div class="media-item"><img src="index.files/index138.png" alt="Advanced scan room example"></div>
           <div class="media-item"><img src="index.files/index232.png" alt="X-ray and scan visuals"></div>
         </div>
@@ -136,7 +134,9 @@
       </h2>
       <div class="video-container"> <video controls="controls"> <source src="index.files/grok-video-a588c942-dbf6-442b-9673-3a23c5b5a365.mp4"
             type="video/mp4"> Your browser does not support video. </video> </div>
-      <h2 id="evidence">Then vs Now: The Huge Leap in Imaging Technology</h2>
+      <h2 id="evidence" style="text-align: center;">Then vs Now: The complex
+        Leap in Imaging Technology requires highly trained MRP's<br>
+        Doctors and nurses are not the only people who heal patients in 2026.</h2>
       <div class="contrast-grid">
         <div class="contrast-side modern-side">
           <h3 style="color: var(--modern);">Modern CT / MRI / Angiogram Machines
@@ -160,9 +160,13 @@
       <div class="card">
         <p>Click to view full size – note the focus on some allied roles but no
           specific MRP plan or mention of the 909 gap.</p>
-        <a href="index.files/MEDIA-RELEASE.JPG" target="_blank"> <img src="index.files/MEDIA-RELEASE.JPG"
-            alt="Minister Tim Nicholls Health Workforce Media Release" style="max-height:400px; cursor:zoom-in;">
-        </a> </div>
+        <dl>
+          <dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="index.files/MEDIA-RELEASE.JPG" target="_blank"> <img src="index.files/MEDIA-RELEASE.JPG"
+                alt="Minister Tim Nicholls Health Workforce Media Release" style="max-height:400px; cursor:zoom-in;">
+            </a> </dt>
+        </dl>
+      </div>
     </section>
     <!-- QR Code Section – near bottom -->
     <section class="container">
