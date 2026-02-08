@@ -234,7 +234,8 @@
           </div>
         </div>
         <a href="mailto:mrpqueensland@gmail.com?subject=Join%20MRP%20Watchlist"
-          class="btn">JOIN WATCHLIST NOW</a> <a href="file:///C:/MRPQUEENSLAND-2026/index.files/workforce-gap-analysis-part-a.pdf"
+          class="btn" title="Email to Join WatchList">JOIN WATCHLIST NOW</a> <a
+          href="file:///C:/MRPQUEENSLAND-2026/index.files/workforce-gap-analysis-part-a.pdf"
           class="btn" title="Government's Own Report">SEE THE EVIDENCE</a> </div>
     </header>
     <section class="container">
