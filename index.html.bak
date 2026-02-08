@@ -6,11 +6,6 @@
   <title>MRP Queensland - Workforce Crisis 2026</title>
   <meta name="description" content="QLD Health Minister ignores massive MRP shortage from official report. Patients at risk. Act now."/>
   
-  <!-- Open Graph -->
-  <meta property="og:title" content="QLD MRP Crisis: Minister Silent on 909 Gap"/>
-  <meta property="og:description" content="Official stats: Only 58% demand met by 2032. Don't let healthcare go backwards."/>
-  <meta property="og:image" content="https://images.unsplash.com/photo-1584982751601-97dcc096659c?w=800"/>
-
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Roboto:wght@400;700&display=swap" rel="stylesheet"/>
   
@@ -33,10 +28,11 @@
     .btn:hover { background:var(--accent); transform:scale(1.05); }
     .media-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:20px; margin:40px 0; }
     .media-item { text-align:center; }
-    .media-item img { max-width:100%; border-radius:12px; border:2px solid var(--accent); transition:transform 0.3s; height:auto; }
+    .media-item img { max-width:100%; border-radius:12px; border:2px solid var(--accent); transition:transform 0.3s; cursor:pointer; }
     .media-item img:hover { transform:scale(1.05); }
     .media-caption { font-style:italic; margin-top:10px; color:#ccc; }
-    footer { text-align:center; padding:40px; background:rgba(0,0,0,0.5); }
+    .video-container { position:relative; padding-bottom:56.25%; height:0; overflow:hidden; margin:40px 0; }
+    .video-container video { position:absolute; top:0; left:0; width:100%; height:100%; }
   </style>
 </head>
 <body>
@@ -45,15 +41,13 @@
     <div class="container">
       <h1>⚠ MRP WORKFORCE CRISIS ⚠</h1>
       <p style="font-size:2rem; margin:20px 0;">Minister Ignores 909 FTE Gap – Official Report Buried</p>
-      
       <div class="stats">
         <div class="stat-card"><div class="stat-number">909</div><p>FTE Shortfall by 2032</p></div>
         <div class="stat-card"><div class="stat-number">58%</div><p>Demand Met by 2032</p></div>
         <div class="stat-card"><div class="stat-number">42%</div><p>Patients at Risk</p></div>
       </div>
-      
       <a href="mailto:mrpqueensland@gmail.com?subject=Join MRP Watchlist" class="btn">JOIN WATCHLIST NOW</a>
-      <a href="#media" class="btn">SEE THE EVIDENCE</a>
+      <a href="#evidence" class="btn">SEE EVIDENCE & MEDIA</a>
     </div>
   </header>
 
@@ -62,42 +56,46 @@
     <div class="card">
       <div class="media-grid">
         <div class="media-item">
-          <img src="https://images.unsplash.com/photo-1581594053254-90a0f6c2e389?w=800&auto=format&fit=crop" alt="Satirical chaotic hospital scene cartoon style">
-          <div class="media-caption">Carry On Doctor vibes? That's where we're headed without enough MRPs. Modern care needs trained professionals – not comedy routines.</div>
+          <img src="index.files/carryon.JPG" alt="Carry On Doctor cartoon - chaotic outdated medicine" onerror="this.src='index.files/CARRY-ON.mCf0OCwDTWTYHbowJV8gvQHaFj';">
+          <div class="media-caption">Carry On Doctor vibes? That's where we're headed without MRPs. Modern care needs professionals – not comedy.</div>
         </div>
         <div class="media-item">
-          <img src="https://images.unsplash.com/photo-1584982751601-97dcc096659c?w=800&auto=format&fit=crop" alt="Patient in hospital bed satirical">
-          <div class="media-caption">Minister resting easy while the MRP crisis grows? Time to wake up and address the shortage.</div>
+          <img src="index.files/OIP-2413416958.GC_4zkC65uqqqiKBKyKkVQHaHa" alt="Satirical image of suited man in hospital bed">
+          <div class="media-caption">Minister resting while the crisis grows? Time to wake up to the MRP shortage.</div>
         </div>
       </div>
     </div>
 
-    <h2>Modern Medicine Depends on MRPs – See the Reality</h2>
+    <h2 id="evidence">Modern Medicine Depends on MRPs – See the Reality</h2>
     <div class="card">
       <div class="media-grid">
-        <div class="media-item">
-          <img src="https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=800&auto=format&fit=crop" alt="Radiographer operating MRI scanner">
-        </div>
-        <div class="media-item">
-          <img src="https://images.unsplash.com/photo-1581594053254-90a0f6c2e389?w=800&auto=format&fit=crop" alt="Advanced CT scanner in use">
-        </div>
-        <div class="media-item">
-          <img src="https://images.unsplash.com/photo-1603398938378-e54eab446dde?w=800&auto=format&fit=crop" alt="Collection of X-ray and scan images">
-        </div>
+        <div class="media-item"><img src="index.files/image.jpg" alt="Medical imaging technician at work"></div>
+        <div class="media-item"><img src="index.files/index138.png" alt="Advanced scan room example"></div>
+        <div class="media-item"><img src="index.files/index232.png" alt="X-ray and scan visuals"></div>
       </div>
-      <p>These high-tech scans save lives daily – but only with sufficient Medical Radiation Professionals to operate and interpret them.</p>
+      <p>These high-tech diagnostics save lives – but only with enough trained Medical Radiation Professionals.</p>
     </div>
 
-    <h2>Minister's Own Release: Gaps Exposed... But MRP Plan Missing</h2>
+    <h2>Minister's Media Release: Gaps Mentioned... MRP Silence</h2>
     <div class="card">
-      <p>The 10 Nov 2025 release highlights allied health gaps (e.g., sonographers) and blames the previous government – yet no mention of radiographers, radiation therapists, or nuclear medicine specialists. No targeted fix for the 909 FTE MRP gap.</p>
-      <a href="A4_Poster_QR.pdf" class="btn" download>View Full Media Release (if uploaded) or check QLD Health site</a>
-      <!-- If you upload your screenshot/PDF: <a href="minister-release-2025.pdf" target="_blank" class="btn">View Minister Release PDF →</a> -->
+      <p>Click the image below to view full size – note the focus on some allied roles but no specific MRP plan or mention of the 909 gap.</p>
+      <a href="index.files/MEDIA-RELEASE.JPG" target="_blank">
+        <img src="index.files/MEDIA-RELEASE.JPG" alt="Minister Tim Nicholls Health Workforce Media Release" style="max-height:400px; cursor:zoom-in;">
+      </a>
+    </div>
+
+    <h2>Video: Why This Matters</h2>
+    <div class="video-container">
+      <video controls>
+        <source src="index.files/grok-video-a588c942-dbf6-442b-9673-3a23c5b5a365.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
     </div>
   </section>
 
-  <section id="media" class="container" style="background:rgba(0,0,0,0.3);">
-    <h2>Spread Awareness – Download Posters</h2>
+  <section class="container" style="background:rgba(0,0,0,0.3);">
+    <h2>Spread Awareness – Download Posters & Reports</h2>
+    <a href="index.files/workforce-gap-analysis-part-a.pdf" class="btn" download>Download Workforce Gap Analysis Part A (PDF)</a>
     <a href="A4_Poster_QR.pdf" class="btn" download>A4 QR Poster</a>
     <a href="A4_Poster_Stats.pdf" class="btn" download>A4 Stats Poster</a>
     <a href="Square_Social.pdf" class="btn" download>Square Social Poster</a>
