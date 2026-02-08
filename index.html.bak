@@ -59,8 +59,13 @@
   <body>
     <header>
       <div class="container">
-        <div class="alert-big">⚠ WORKFORCE CRISIS ALERT ⚠</div>
+        <div class="alert-big" style="background-color: white;"><span style="color: red;">⚠
+            WORKFORCE CRISIS ALERT ⚠</span></div>
+        <h1><img src="index.files/OIP-2413416958.GC_4zkC65uqqqiKBKyKkVQHaHa" alt="Satirical image of suited man in hospital bed"
+            style="width: 88px; height: 88px;"></h1>
         <h1>HEALTH MINISTER IGNORES HIS OWN WORKFORCE REPORT</h1>
+        <h1><img src="index.files/OIP-2413416958.GC_4zkC65uqqqiKBKyKkVQHaHa" alt="Satirical image of suited man in hospital bed"
+            style="width: 88px; height: 88px;"></h1>
         <div class="stats">
           <div class="stat-card">
             <div class="stat-number">909</div>
@@ -75,8 +80,8 @@
             <p>Overall Demand Growth for Allied Health (incl. MRPs)</p>
           </div>
         </div>
-        <a href="mailto:mrpqueensland@gmail.com?subject=Join%20MRP%20Watchlist"
-          class="btn">JOIN WATCHLIST NOW</a> <a href="index.files/workforce-gap-analysis-part-a.pdf"
+        <a href="mailto:MRPQUEENSLAND-2026/mrpqueensland@gmail.com?subject=Join%20MRP%20Watchlist"
+          class="btn" title="Email List of News">JOIN WATCHLIST NOW</a> <a href="index.files/workforce-gap-analysis-part-a.pdf"
           class="btn" download="">SEE THE EVIDENCE (PDF)</a> </div>
     </header>
     <section class="container">
@@ -109,8 +114,7 @@
             <div class="media-caption">Carry On Doctor vibes? That's where we're
               headed without MRPs.</div>
           </div>
-          <div class="media-item"> <img src="index.files/OIP-2413416958.GC_4zkC65uqqqiKBKyKkVQHaHa"
-              alt="Satirical image of suited man in hospital bed">
+          <div class="media-item"> <br>
             <div class="media-caption">Minister resting while the crisis grows?
               Time to wake up.</div>
           </div>
