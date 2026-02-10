@@ -72,7 +72,6 @@
         <h1><img src="index.files/OIP-2413416958.GC_4zkC65uqqqiKBKyKkVQHaHa" alt="Satirical image of suited man in hospital bed"
             style="width: 88px; height: 88px;"></h1>
         <h1>HEALTH MINISTER IGNORES HIS OWN WORKFORCE REPORT</h1>
-        <h1><span style="color: red;"></span></h1>
         <h1><img src="index.files/OIP-2413416958.GC_4zkC65uqqqiKBKyKkVQHaHa" alt="Satirical image of suited man in hospital bed"
             style="width: 88px; height: 88px;"></h1>
         <div class="stats">
@@ -92,18 +91,14 @@
         <a href="mailto:MRPQUEENSLAND-2026/mrpqueensland@gmail.com?subject=Join%20MRP%20Watchlist"
           class="btn" title="Email List of News">JOIN WATCHLIST NOW ( Email:
           MRPQueensland@gmail.com )</a> <a href="index.files/workforce-gap-analysis-part-a.pdf"
-          class="btn" download="">SEE THE EVIDENCE (PDF)</a>
-        <h1><span style="color: red;"></span></h1>
-      </div>
+          class="btn" download="">SEE THE EVIDENCE (PDF)</a> </div>
     </header>
     <section class="container">
       <div class="chart-container">
         <h2 style="color: var(--accent); margin-bottom: 20px;">Official
           Report:&nbsp; MRP Supply vs Demand Gap</h2>
-        <h1><span style="color: red;"></span></h1>
         <img src="index.files/chart.jpg" alt="Queensland Health Workforce Gap Analysis - Proportion of projected demand met for Medical Radiation Professionals (58%) and projected FTE gap (909) in 2032"
           loading="lazy">
-        <h1><span style="color: red;"></span></h1>
         <p class="chart-caption"> Source: Queensland Health Workforce Gap
           Analysis (Part A) – Medical radiation professionals include
           radiographers, nuclear medicine scientists/technologists and radiation
@@ -202,8 +197,6 @@
     <footer>
       <p>Contact: mrpqueensland@gmail.com | Independent initiative – Stats from
         QLD Health Nov 2025</p>
-      <h1><span style="color: red;"><img src="index.files/AN.jpg" alt="an" style="width: 234px; height: 133px;"
-            title="an"></span></h1>
     </footer>
   </body>
 </html>
